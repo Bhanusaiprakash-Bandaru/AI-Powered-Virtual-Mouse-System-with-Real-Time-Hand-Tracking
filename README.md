@@ -4,7 +4,7 @@
 ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
-# AI Virtual Mouse Using Real-Time Hand Gestures
+# AI Virtual Mouse Using Real-Time Hand Gestures (Computer Vision)
 
 An AI-powered virtual mouse system that enables hands-free cursor control and mouse actions using real-time hand gestures captured via a webcam.
 
@@ -63,6 +63,14 @@ Virtual-Mouse/
 5. Mouse actions are triggered using system-level automation libraries.
 6. A visual instruction panel guides users with supported gestures.
 
+---
+## 🎯 Use Cases
+
+- Touch-free computer interaction
+- Accessibility support for users with limited mobility
+- Gesture-based human–computer interaction research
+- Learning reference for computer vision and MediaPipe
+- Prototype for smart interfaces and AR/VR systems
 ---
 
 ## 📌 Notes
