@@ -4,7 +4,7 @@
 ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
-# AI Virtual Mouse Using Real-Time Hand Gestures (Computer Vision)
+# AI-Powered Virtual Mouse System with Real-Time Hand Tracking (Computer Vision)
 
 An AI-powered virtual mouse system that enables hands-free cursor control and mouse actions using real-time hand gestures captured via a webcam.
 
